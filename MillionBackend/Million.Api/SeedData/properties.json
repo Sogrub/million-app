@@ -1,0 +1,300 @@
+[{
+  "_id": {
+    "$oid": "68c4d793da40471b2c013f48"
+  },
+  "IdOwner": {
+    "$oid": "68c4d2ba274154c2e6dec2c9"
+  },
+  "Name": "Apartamento en Chía",
+  "AddressProperty": "Calle 12 #45-23, Chía",
+  "PriceProperty": {
+    "$numberDecimal": "200032030"
+  },
+  "Type": "sell",
+  "Description": "¡Dcto especial! Proyecto ubicado en el centro de Chía, con amplias zonas comunes, parqueaderos para visitantes y apartamentos diseñados con espacios modernos y funcionales."
+},
+{
+  "_id": {
+    "$oid": "68c4d793da40471b2c013f49"
+  },
+  "IdOwner": {
+    "$oid": "68c895238348a05e1b886839"
+  },
+  "Name": "Casa en Bogotá",
+  "AddressProperty": "Cra 15 #120-45, Bogotá",
+  "PriceProperty": {
+    "$numberDecimal": "560000000"
+  },
+  "Type": "rent",
+  "Description": "Proyecto exclusivo en el norte de Bogotá, con casas de diseño contemporáneo, zonas verdes, seguridad 24/7 y cercanía a colegios y centros comerciales."
+},
+{
+  "_id": {
+    "$oid": "68c4d793da40471b2c013f4a"
+  },
+  "IdOwner": {
+    "$oid": "68c895238348a05e1b88683a"
+  },
+  "Name": "Apartamento en Medellín",
+  "AddressProperty": "Av. El Poblado 300, Medellín",
+  "PriceProperty": {
+    "$numberDecimal": "450000000"
+  },
+  "Type": "sell",
+  "Description": "Proyecto de apartamentos en El Poblado, Medellín. Conjunto cerrado con zonas comunes, gimnasio, piscina y acceso a vías principales."
+},
+{
+  "_id": {
+    "$oid": "68c4d793da40471b2c013f4b"
+  },
+  "IdOwner": {
+    "$oid": "68c895238348a05e1b88683b"
+  },
+  "Name": "Casa Campestre en Girardot",
+  "AddressProperty": "Km 5 Vía Girardot-Melgar",
+  "PriceProperty": {
+    "$numberDecimal": "1200000000"
+  },
+  "Type": "rent",
+  "Description": "Casa campestre con amplias zonas verdes, piscina privada, parqueaderos y un diseño ideal para el descanso y la recreación familiar."
+},
+{
+  "_id": {
+    "$oid": "68c4d793da40471b2c013f4c"
+  },
+  "IdOwner": {
+    "$oid": "68c895238348a05e1b88683c"
+  },
+  "Name": "Apartamento en Cali",
+  "AddressProperty": "Calle 5 #67-90, Cali",
+  "PriceProperty": {
+    "$numberDecimal": "350000000"
+  },
+  "Type": "sell",
+  "Description": "Conjunto residencial en el sur de Cali con torres de apartamentos, zonas verdes, salón social y seguridad privada."
+},
+{
+  "_id": {
+    "$oid": "68c4d793da40471b2c013f4d"
+  },
+  "IdOwner": {
+    "$oid": "68c895238348a05e1b88683d"
+  },
+  "Name": "Apartamento en Barranquilla",
+  "AddressProperty": "Cra 46 #84-120, Barranquilla",
+  "PriceProperty": {
+    "$numberDecimal": "400000000"
+  },
+  "Type": "rent",
+  "Description": "Proyecto en Barranquilla con apartamentos modernos, áreas sociales, parqueaderos y cercanía a universidades y centros comerciales."
+},
+{
+  "_id": {
+    "$oid": "68c4d793da40471b2c013f4e"
+  },
+  "IdOwner": {
+    "$oid": "68c4d2ba274154c2e6dec2c9"
+  },
+  "Name": "Apartamento en Bucaramanga",
+  "AddressProperty": "Av. Quebradaseca 100, Bucaramanga",
+  "PriceProperty": {
+    "$numberDecimal": "280000000"
+  },
+  "Type": "sell",
+  "Description": "Conjunto residencial en Bucaramanga, con torre de apartamentos, zonas comunes, gimnasio y excelente ubicación."
+},
+{
+  "_id": {
+    "$oid": "68c4d793da40471b2c013f4f"
+  },
+  "IdOwner": {
+    "$oid": "68c895238348a05e1b886839"
+  },
+  "Name": "Casa en Ibagué",
+  "AddressProperty": "Cra 8 #12-34, Ibagué",
+  "PriceProperty": {
+    "$numberDecimal": "320000000"
+  },
+  "Type": "rent",
+  "Description": "Casa en conjunto residencial de Ibagué con áreas comunes, parqueaderos, seguridad y cercanía a vías principales."
+},
+{
+  "_id": {
+    "$oid": "68c4d793da40471b2c013f50"
+  },
+  "IdOwner": {
+    "$oid": "68c895238348a05e1b88683a"
+  },
+  "Name": "Apartamento en Cartagena",
+  "AddressProperty": "Bocagrande, Cartagena",
+  "PriceProperty": {
+    "$numberDecimal": "950000000"
+  },
+  "Type": "sell",
+  "Description": "Apartamento exclusivo en Bocagrande, Cartagena, con vista al mar, zonas sociales, piscina y parqueaderos privados."
+},
+{
+  "_id": {
+    "$oid": "68c4d793da40471b2c013f51"
+  },
+  "IdOwner": {
+    "$oid": "68c895238348a05e1b88683b"
+  },
+  "Name": "Casa en Armenia",
+  "AddressProperty": "Cra 14 #20-45, Armenia",
+  "PriceProperty": {
+    "$numberDecimal": "210000000"
+  },
+  "Type": "rent",
+  "Description": "Casa ubicada en conjunto residencial de Armenia, con amplias zonas verdes, salón comunal y seguridad privada."
+},
+{
+  "_id": {
+    "$oid": "68c4d793da40471b2c013f52"
+  },
+  "IdOwner": {
+    "$oid": "68c895238348a05e1b88683c"
+  },
+  "Name": "Apartamento en Manizales",
+  "AddressProperty": "Av. Santander 12-50, Manizales",
+  "PriceProperty": {
+    "$numberDecimal": "300000000"
+  },
+  "Type": "sell",
+  "Description": "Proyecto en Manizales con apartamentos modernos, áreas de recreación, parqueaderos y cercanía a universidades."
+},
+{
+  "_id": {
+    "$oid": "68c4d793da40471b2c013f53"
+  },
+  "IdOwner": {
+    "$oid": "68c895238348a05e1b88683d"
+  },
+  "Name": "Casa en Villavicencio",
+  "AddressProperty": "Cra 19 #45-89, Villavicencio",
+  "PriceProperty": {
+    "$numberDecimal": "500000000"
+  },
+  "Type": "rent",
+  "Description": "Casa en Villavicencio con diseño contemporáneo, amplias zonas sociales y cercanía a centros comerciales."
+},
+{
+  "_id": {
+    "$oid": "68c4d793da40471b2c013f54"
+  },
+  "IdOwner": {
+    "$oid": "68c4d2ba274154c2e6dec2c9"
+  },
+  "Name": "Apartamento en Santa Marta",
+  "AddressProperty": "El Rodadero, Santa Marta",
+  "PriceProperty": {
+    "$numberDecimal": "780000000"
+  },
+  "Type": "sell",
+  "Description": "Apartamento frente al mar en El Rodadero, con acceso a playa privada, piscina y seguridad 24/7."
+},
+{
+  "_id": {
+    "$oid": "68c4d793da40471b2c013f55"
+  },
+  "IdOwner": {
+    "$oid": "68c895238348a05e1b886839"
+  },
+  "Name": "Apartamento en Pasto",
+  "AddressProperty": "Cra 27 #12-67, Pasto",
+  "PriceProperty": {
+    "$numberDecimal": "180000000"
+  },
+  "Type": "rent",
+  "Description": "Conjunto residencial en Pasto con apartamentos modernos, parqueaderos, salón social y vigilancia."
+},
+{
+  "_id": {
+    "$oid": "68c4d793da40471b2c013f56"
+  },
+  "IdOwner": {
+    "$oid": "68c895238348a05e1b88683a"
+  },
+  "Name": "Casa en Montería",
+  "AddressProperty": "Calle 41 #20-11, Montería",
+  "PriceProperty": {
+    "$numberDecimal": "350000000"
+  },
+  "Type": "sell",
+  "Description": "Casa en Montería con diseño moderno, amplias áreas sociales y excelente ubicación cerca a colegios."
+},
+{
+  "_id": {
+    "$oid": "68c4d793da40471b2c013f57"
+  },
+  "IdOwner": {
+    "$oid": "68c895238348a05e1b88683b"
+  },
+  "Name": "Apartamento en Neiva",
+  "AddressProperty": "Cra 5 #10-20, Neiva",
+  "PriceProperty": {
+    "$numberDecimal": "260000000"
+  },
+  "Type": "rent",
+  "Description": "Apartamento en conjunto residencial de Neiva con zonas verdes, salón comunal y vigilancia privada."
+},
+{
+  "_id": {
+    "$oid": "68c4d793da40471b2c013f58"
+  },
+  "IdOwner": {
+    "$oid": "68c895238348a05e1b88683c"
+  },
+  "Name": "Apartamento en Tunja",
+  "AddressProperty": "Cra 12 #34-50, Tunja",
+  "PriceProperty": {
+    "$numberDecimal": "220000000"
+  },
+  "Type": "sell",
+  "Description": "Conjunto cerrado en Tunja con apartamentos funcionales, zonas verdes y fácil acceso a transporte público."
+},
+{
+  "_id": {
+    "$oid": "68c4d793da40471b2c013f59"
+  },
+  "IdOwner": {
+    "$oid": "68c895238348a05e1b88683d"
+  },
+  "Name": "Casa en Cúcuta",
+  "AddressProperty": "Av. Libertadores 56, Cúcuta",
+  "PriceProperty": {
+    "$numberDecimal": "410000000"
+  },
+  "Type": "rent",
+  "Description": "Casa en Cúcuta con diseño moderno, parqueaderos, amplias áreas sociales y seguridad privada."
+},
+{
+  "_id": {
+    "$oid": "68c4d793da40471b2c013f5a"
+  },
+  "IdOwner": {
+    "$oid": "68c4d2ba274154c2e6dec2c9"
+  },
+  "Name": "Apartamento en Pereira",
+  "AddressProperty": "Cra 7 #20-45, Pereira",
+  "PriceProperty": {
+    "$numberDecimal": "370000000"
+  },
+  "Type": "sell",
+  "Description": "Proyecto de apartamentos en Pereira con áreas sociales, parqueaderos, salón comunal y vigilancia privada."
+},
+{
+  "_id": {
+    "$oid": "68c4d793da40471b2c013f5b"
+  },
+  "IdOwner": {
+    "$oid": "68c895238348a05e1b886839"
+  },
+  "Name": "Casa en Sincelejo",
+  "AddressProperty": "Calle 18 #22-30, Sincelejo",
+  "PriceProperty": {
+    "$numberDecimal": "240000000"
+  },
+  "Type": "rent",
+  "Description": "Casa en conjunto cerrado de Sincelejo con amplias zonas verdes, parqueaderos y vigilancia permanente."
+}]
