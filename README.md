@@ -13,6 +13,7 @@ Proyecto de prueba técnica con **.NET 8 (Backend)**, **MongoDB** y **Next.js 15
 
 ## 📂 Estructura del proyecto
 
+```
 .
 ├── backend.Dockerfile
 ├── frontend.Dockerfile
@@ -20,6 +21,7 @@ Proyecto de prueba técnica con **.NET 8 (Backend)**, **MongoDB** y **Next.js 15
 ├── million-backend/ # Código del backend (ASP.NET Core)
 ├── million-front/ # Código del frontend (Next.js)
 └── README.md
+```
 
 
 ---
